@@ -17,6 +17,11 @@ The "Statistics & Research on Eating Disoders" website is publically accessible 
 Using Shorthand, I hope to take these data points and use visualization to create a story and more engaging website. I want to be inclusive and use all available data, which may be tricky, but it is important to ensure there is consumable data for everyone who visits this website. My biggest concern is making sure all of the data can fit and flow and isn't too much without leaving anything out. Based on the feedback I receive from interviews, I may decide to visualize one topic for the sake of this project and expand from there. 
 
 # Initial Sketches/Wire Frames
+![IMG_5347](https://user-images.githubusercontent.com/67712999/88829047-170b3280-d19a-11ea-9d8f-01ac7dccb023.jpg)
+![IMG_5348](https://user-images.githubusercontent.com/67712999/88829049-170b3280-d19a-11ea-9ecd-0f37d23620c8.jpg)
+![IMG_5353](https://user-images.githubusercontent.com/67712999/88829055-17a3c900-d19a-11ea-8b55-47e3a515ac11.jpg)
+![IMG_5354](https://user-images.githubusercontent.com/67712999/88829061-183c5f80-d19a-11ea-8d3e-c828eb55eac3.jpg)
+![IMG_5356](https://user-images.githubusercontent.com/67712999/88829062-18d4f600-d19a-11ea-8d4e-15d62739c32c.jpg)
 
 # User Research and Interviews
 
