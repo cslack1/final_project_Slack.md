@@ -55,13 +55,17 @@ Because NEDA already has a statistics and research website, I collected my data 
     
 # Final Data Story
 
-Although eating disorders impact a large population in one way or another, I wanted to focus on a topic that everyone is familiar with: body shaming. NEDA has seen an increase in requests for resources since COVID-19 forced a national shutdown in the US. Generally, it's because more people are home scrolling through social media and can't go to the gym. Articles and memes about weight gain are everywhere, and it has turned into a joke. Unfortunately it is not funny for those who have an eating disorder and are struggling with both the anxiety of their disordered eating but the pandemic and other ways it will impact their lives. NEDA is a support organization, so I want my message to be informative yet positive and empowering. 
+Although eating disorders impact a large population in one way or another, I wanted to focus on a topic that everyone is familiar with: weight shaming and bullying body. NEDA has seen an increase in requests for resources since COVID-19 forced a national shutdown in the US. Generally, it's because more people are home scrolling through social media and can't go to the gym. Articles and memes about weight gain are everywhere, and it has turned into a joke. Unfortunately it is not funny for those who have an eating disorder and are struggling with both the anxiety of their disordered eating but the pandemic and other ways it will impact their lives. NEDA is a support organization, so I want my message to be informative yet positive and empowering. 
 
 If I could do this project over again, I would make a few adjustments:
 1) Visually, in my Shorthand presentation, I regret not using more pictures. However, I did not want to risk any copyright infringements and figure the focus should be on my own data visualizations. 
 2) Spend more time learning the ins and outs of Shorthand. I struggled with several things like images and placement but did the best I could in the time we had. Shorthand is a very cool tool that I hope I can use in the future for this project and other work- and volunteer-related projects. 
 
-Shorthand presentation with final design and data visualizations can be found here: https://preview.shorthand.com/Dlc0A24ysgdXLXYX 
+Shorthand presentation with final design and data visualizations can be found here: https://carnegiemellon.shorthandstories.com/the-impacts-of-weight-shaming-and-bullying/index.html
+
+# Post-Presentation Thoughts
+
+Despite my internet crawling and not keeping up with my scrolling speed, I was grateful to share statistics and resources of NEDA with the class. I am hopeful classmates will go to the Google Doc page and take the time to look at my page and learn more. 
 
 # Closing Notes
 I learned a lot about data visualization during this class and see graphs and representations in a different light. I also learned how important simplicity and order is, and have taken that lesson to heart in other areas outside of data visualization - including how to write an email and share information with others. Thank you for the opportunity to learn more about telling stories with data!
