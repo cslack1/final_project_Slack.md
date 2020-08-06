@@ -1,5 +1,6 @@
 # final_project_Slack.md
 
+# Part I: 
 # Introduction and Outline
 
 I volunteer for The National Eating Disorders Association (NEDA), and am using this project to suggest data visualization opportunities for the "Statistics & Research on Eating Disorders" section of the organization's website. Currently, the "Statistics & Research on Eating Disorders" section is bullets of text with no visualization at all. The statistics are unfortunate and important to know but not easily digestible in their current format. I am redesigning a real example that I hope to use and implement. Naturally I will have a few more challenges and hurdles to overcome than other students who are just completing this assignment for a grade and will work through them one at a time. 
@@ -42,3 +43,25 @@ Interview Script:
 3) Captivating Images. I received suggestions on having triggering images to reinforce the feeling of shame one should feel when they are bullied about their weight. However, NEDA is a support website and does not condone triggering its users with that type of imagery. All images need to be both on brand (point 2) and show support for those experiencing bullying themselves or know someone who is struggling. Likely, a person visiting the site is looking for a help; they are not the bully themselves. 
 4) Branching. Because bullying/weight shaming is the biggest contributor to eating disorders, feedback suggests this is the first topic and then branch out from there. For example, in the graphc about overweight girls and boys, have hyperlinks to other visualizations about binge eating and other subtopics of eating disorders. This will also help manage having all of these visualizations on one page. 
 5) Visualizations. Overall, the visualizations themselves did not receive much negative feedback. After seeing the starting point of the website, anything is a vast improvement! Notably were focus of the brand and flow: starting from with the overarching theme (which is now bullying/weight shaming) and then having subtopics such as stigma, losing weight, gaining weight, and long-term impacts last.  
+
+# Part II
+
+# The Idea
+After receiving positive feedback from Part I, I did not change my project scope and went forward as planned. For the script of my presentation, I wanted to ensure I highlighted my purpose and involvement with NEDA and then let the data visualizations speak for themselves. The presentation structure focuses on weight shaming and the impacts it has on a younger generation and how it follows into adulthood. Then, most importantly, close out with a strong message that "WORDS HAVE POWER" and resources are available for both those struggling and loved ones of those who are struggling.
+
+To best capture the flow, I used Shorthand as the medium for the project. Admittedly I am not very creative or naturally visual (which is why I took this class and improved!) so was beyond grateful for templates. 
+
+Because NEDA already has a statistics and research website, I collected my data from there given my purpose is to show the website is in desparate need of a data visualization facelift. I made sure to cite the one photo I used and an external source to confirm my opening statement. Onto the final chapter . . .
+    
+# Final Data Story
+
+Although eating disorders impact a large population in one way or another, I wanted to focus on a topic that everyone is familiar with: body shaming. NEDA has seen an increase in requests for resources since COVID-19 forced a national shutdown in the US. Generally, it's because more people are home scrolling through social media and can't go to the gym. Articles and memes about weight gain are everywhere, and it has turned into a joke. Unfortunately it is not funny for those who have an eating disorder and are struggling with both the anxiety of their disordered eating but the pandemic and other ways it will impact their lives. NEDA is a support organization, so I want my message to be informative yet positive and empowering. 
+
+If I could do this project over again, I would make a few adjustments:
+1) Visually, in my Shorthand presentation, I regret not using more pictures. However, I did not want to risk any copyright infringements and figure the focus should be on my own data visualizations. 
+2) Spend more time learning the ins and outs of Shorthand. I struggled with several things like images and placement but did the best I could in the time we had. Shorthand is a very cool tool that I hope I can use in the future for this project and other work- and volunteer-related projects. 
+
+Shorthand presentation with final design and data visualizations can be found here: https://preview.shorthand.com/Dlc0A24ysgdXLXYX 
+
+# Closing Notes
+I learned a lot about data visualization during this class and see graphs and representations in a different light. I also learned how important simplicity and order is, and have taken that lesson to heart in other areas outside of data visualization - including how to write an email and share information with others. Thank you for the opportunity to learn more about telling stories with data!
